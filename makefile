@@ -1,5 +1,5 @@
 makeit: first.s
-	as -o first.o first.s
+	as -g -o first.o first.s
 	ld -o first first.o
 
 clean:
