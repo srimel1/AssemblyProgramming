@@ -3,7 +3,7 @@ Project_A1
 Team Members: 
   Team Coordinator: Taslima Kotadiya
   Primary Programmer: Sachin Mahajan
-  Hadeem Lee
+              Hadeem Lee
               David Prefontaine
-              xiaoli gong
+              Xiaoli Gong
               Stephanie Rimel
